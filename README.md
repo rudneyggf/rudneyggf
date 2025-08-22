@@ -1,6 +1,6 @@
 ### Prazer, Chamo-me Rudney Gabriel. Sou desenvolvedor e estudante de Sistema de Informação no Instituto Federal do Maranhão.
 
-<div style="text-align:center;">
+<div align = center >
   <img src="solaira-gif-unscreen.gif" alt="Solaire Praise to the sun">
 </div>
 
